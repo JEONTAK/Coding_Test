@@ -5,6 +5,7 @@
 ### Gold5
 
 - [AC](src/BaekJoon/Gold5/AC/BOJ5430.java)
+- [FlymetotheAlphaCentauri](src/BaekJoon/Gold5/FlymetotheAlphaCentauri/BOJ1011.java)
 - [리모컨](src/BaekJoon/Gold5/리모컨/BOJ1107.java)
 - [숨바꼭질3](src/BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
 - [집합의표현](src/BaekJoon/Gold5/집합의표현/BOJ1717.java)
