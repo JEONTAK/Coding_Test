@@ -8,5 +8,6 @@
 - [리모컨](src/BaekJoon/Gold5/리모컨/BOJ1107.java)
 - [숨바꼭질3](src/BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
 - [집합의표현](src/BaekJoon/Gold5/집합의표현/BOJ1717.java)
+- [최소비용구하기](src/BaekJoon/Gold5/최소비용구하기/BOJ1916.java)
 - [토마토](src/BaekJoon/Gold5/토마토/BOJ7576.java)
 - [평범한배낭](src/BaekJoon/Gold5/평범한배낭/BOJ12865.java)
