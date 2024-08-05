@@ -12,6 +12,7 @@
 - [집합의표현](src/BaekJoon/Gold5/집합의표현/BOJ1717.java)
 - [최소비용구하기](src/BaekJoon/Gold5/최소비용구하기/BOJ1916.java)
 - [치킨배달](src/BaekJoon/Gold5/치킨배달/BOJ15686.java)
+- [탑](src/BaekJoon/Gold5/탑/BOJ2493.java)
 - [토마토](src/BaekJoon/Gold5/토마토/BOJ7576.java)
 - [토마토](src/BaekJoon/Gold5/토마토2/BOJ7569.java)
 - [평범한배낭](src/BaekJoon/Gold5/평범한배낭/BOJ12865.java)
