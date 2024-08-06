@@ -9,6 +9,7 @@
 - [LCS](src/BaekJoon/Gold5/LCS/BOJ9251.java)
 - [리모컨](src/BaekJoon/Gold5/리모컨/BOJ1107.java)
 - [숨바꼭질3](src/BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
+- [암호만들기](src/BaekJoon/Gold5/암호만들기/BOJ1759.java)
 - [집합의표현](src/BaekJoon/Gold5/집합의표현/BOJ1717.java)
 - [최소비용구하기](src/BaekJoon/Gold5/최소비용구하기/BOJ1916.java)
 - [치킨배달](src/BaekJoon/Gold5/치킨배달/BOJ15686.java)
