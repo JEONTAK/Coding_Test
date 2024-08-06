@@ -8,6 +8,7 @@
 - [FlymetotheAlphaCentauri](src/BaekJoon/Gold5/FlymetotheAlphaCentauri/BOJ1011.java)
 - [LCS](src/BaekJoon/Gold5/LCS/BOJ9251.java)
 - [리모컨](src/BaekJoon/Gold5/리모컨/BOJ1107.java)
+- [별찍기](src/BaekJoon/Gold5/별찍기10/BOJ2447.java)
 - [숨바꼭질3](src/BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
 - [암호만들기](src/BaekJoon/Gold5/암호만들기/BOJ1759.java)
 - [집합의표현](src/BaekJoon/Gold5/집합의표현/BOJ1717.java)
