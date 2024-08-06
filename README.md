@@ -12,6 +12,7 @@
 - [별찍기](src/BaekJoon/Gold5/별찍기10/BOJ2447.java)
 - [숨바꼭질3](src/BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
 - [암호만들기](src/BaekJoon/Gold5/암호만들기/BOJ1759.java)
+- [적록색약](src/BaekJoon/Gold5/적록색약/BOJ10026.java)
 - [집합의표현](src/BaekJoon/Gold5/집합의표현/BOJ1717.java)
 - [최소비용구하기](src/BaekJoon/Gold5/최소비용구하기/BOJ1916.java)
 - [치킨배달](src/BaekJoon/Gold5/치킨배달/BOJ15686.java)
