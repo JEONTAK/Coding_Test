@@ -4,6 +4,7 @@
 
 ### Gold5
 
+- [ABCDE](src/BaekJoon/Gold5/ABCDE/BOJ13023.java)
 - [AC](src/BaekJoon/Gold5/AC/BOJ5430.java)
 - [FlymetotheAlphaCentauri](src/BaekJoon/Gold5/FlymetotheAlphaCentauri/BOJ1011.java)
 - [LCS](src/BaekJoon/Gold5/LCS/BOJ9251.java)
