@@ -10,6 +10,7 @@
 - [괄호의값](src/BaekJoon/Gold5/괄호의값/BOJ2504.java)
 - [동전1](src/BaekJoon/Gold5/동전1/BOJ2293.java)
 - [동전2](src/BaekJoon/Gold5/동전2/BOJ2294.java)
+- [두용액](src/BaekJoon/Gold5/두용액/BOJ2470.java)
 - [로봇청소기](src/BaekJoon/Gold5/로봇청소기/BOJ14503.java)
 - [리모컨](src/BaekJoon/Gold5/리모컨/BOJ1107.java)
 - [별찍기](src/BaekJoon/Gold5/별찍기10/BOJ2447.java)
