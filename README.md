@@ -10,6 +10,7 @@
 - [LCS](src/BaekJoon/Gold5/LCS/BOJ9251.java)
 - [강의실배정](src/BaekJoon/Gold5/강의실배정/BOJ11000.java)
 - [괄호의값](src/BaekJoon/Gold5/괄호의값/BOJ2504.java)
+- [내려가기](src/BaekJoon/Gold5/내려가기/BOJ2096.java)
 - [동전1](src/BaekJoon/Gold5/동전1/BOJ2293.java)
 - [동전2](src/BaekJoon/Gold5/동전2/BOJ2294.java)
 - [두용액](src/BaekJoon/Gold5/두용액/BOJ2470.java)
