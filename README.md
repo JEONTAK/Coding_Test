@@ -30,6 +30,7 @@
 - [토마토](src/BaekJoon/Gold5/토마토/BOJ7576.java)
 - [토마토](src/BaekJoon/Gold5/토마토2/BOJ7569.java)
 - [트리](src/BaekJoon/Gold5/트리/BOJ1068.java)
+- [파이프옮기기1](src/BaekJoon/Gold5/파이프옮기기1/BOJ17070.java)
 - [평범한배낭](src/BaekJoon/Gold5/평범한배낭/BOJ12865.java)
 - [하노이탑이동순서](src/BaekJoon/Gold5/하노이탑이동순서/BOJ11729.java)
 - [합분해](src/BaekJoon/Gold5/합분해/BOJ2225.java)
