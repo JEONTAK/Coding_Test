@@ -16,6 +16,7 @@
 - [두용액](src/BaekJoon/Gold5/두용액/BOJ2470.java)
 - [로봇청소기](src/BaekJoon/Gold5/로봇청소기/BOJ14503.java)
 - [리모컨](src/BaekJoon/Gold5/리모컨/BOJ1107.java)
+- [뱀과사다리게임](src/BaekJoon/Gold5/뱀과사다리게임/BOJ16928.java)
 - [별찍기 - 10](src/BaekJoon/Gold5/별찍기10/BOJ2447.java)
 - [보물섬](src/BaekJoon/Gold5/보물섬/BOJ2589.java)
 - [숨바꼭질3](src/BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
