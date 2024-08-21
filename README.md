@@ -24,6 +24,7 @@
 - [뱀과사다리게임](src/BaekJoon/Gold5/뱀과사다리게임/BOJ16928.java)
 - [별찍기 - 10](src/BaekJoon/Gold5/별찍기10/BOJ2447.java)
 - [보물섬](src/BaekJoon/Gold5/보물섬/BOJ2589.java)
+- [선긋기](src/BaekJoon/Gold5/선긋기/BOJ2170.java)
 - [숨바꼭질3](src/BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
 - [암호만들기](src/BaekJoon/Gold5/암호만들기/BOJ1759.java)
 - [암호코드](src/BaekJoon/Gold5/암호코드/BOJ2011.java)
