@@ -25,6 +25,7 @@
 - [별찍기 - 10](src/BaekJoon/Gold5/별찍기10/BOJ2447.java)
 - [보물섬](src/BaekJoon/Gold5/보물섬/BOJ2589.java)
 - [선긋기](src/BaekJoon/Gold5/선긋기/BOJ2170.java)
+- [수고르기](src/BaekJoon/Gold5/수고르기/BOJ2230.java)
 - [숨바꼭질3](src/BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
 - [신기한소수](src/BaekJoon/Gold5/신기한소수/BOJ2023.java)
 - [암호만들기](src/BaekJoon/Gold5/암호만들기/BOJ1759.java)
