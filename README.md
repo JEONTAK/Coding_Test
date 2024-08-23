@@ -21,6 +21,7 @@
 - [리모컨](src/BaekJoon/Gold5/리모컨/BOJ1107.java)
 - [맥주마시면서걸어가기](src/BaekJoon/Gold5/맥주마시면서걸어가기/BOJ9205.java)
 - [배](src/BaekJoon/Gold5/배/BOJ1092.java)
+- [배열돌리기1](src/BaekJoon/Gold5/배열돌리기1/BOJ16926.java)
 - [뱀과사다리게임](src/BaekJoon/Gold5/뱀과사다리게임/BOJ16928.java)
 - [별찍기 - 10](src/BaekJoon/Gold5/별찍기10/BOJ2447.java)
 - [보물섬](src/BaekJoon/Gold5/보물섬/BOJ2589.java)
