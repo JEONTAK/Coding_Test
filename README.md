@@ -37,6 +37,7 @@
 - [입국심사](src/BaekJoon/Gold5/입국심사/BOJ3079.java)
 - [적록색약](src/BaekJoon/Gold5/적록색약/BOJ10026.java)
 - [전깃줄](src/BaekJoon/Gold5/전깃줄/BOJ2565.java)
+- [주사위](src/BaekJoon/Gold5/주사위/BOJ1041.java)
 - [집합의표현](src/BaekJoon/Gold5/집합의표현/BOJ1717.java)
 - [최소비용구하기](src/BaekJoon/Gold5/최소비용구하기/BOJ1916.java)
 - [치킨배달](src/BaekJoon/Gold5/치킨배달/BOJ15686.java)
