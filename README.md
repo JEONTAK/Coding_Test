@@ -35,6 +35,7 @@
 - [암호만들기](src/BaekJoon/Gold5/암호만들기/BOJ1759.java)
 - [암호코드](src/BaekJoon/Gold5/암호코드/BOJ2011.java)
 - [연속합2](src/BaekJoon/Gold5/연속합2/BOJ13398.java)
+- [옥상정원꾸미기](src/BaekJoon/Gold5/옥상정원꾸미기/BOJ6198.java)
 - [용액](src/BaekJoon/Gold5/용액/BOJ2467.java)
 - [입국심사](src/BaekJoon/Gold5/입국심사/BOJ3079.java)
 - [적록색약](src/BaekJoon/Gold5/적록색약/BOJ10026.java)
