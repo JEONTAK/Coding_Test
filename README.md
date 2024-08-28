@@ -4,6 +4,7 @@
 
 ### Gold5
 
+- [1학년](src/BaekJoon/Gold5/_1학년/BOJ5557.java)
 - [ABCDE](src/BaekJoon/Gold5/ABCDE/BOJ13023.java)
 - [AC](src/BaekJoon/Gold5/AC/BOJ5430.java)
 - [FlymetotheAlphaCentauri](src/BaekJoon/Gold5/FlymetotheAlphaCentauri/BOJ1011.java)
