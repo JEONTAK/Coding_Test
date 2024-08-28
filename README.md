@@ -32,6 +32,7 @@
 - [선긋기](src/BaekJoon/Gold5/선긋기/BOJ2170.java)
 - [수고르기](src/BaekJoon/Gold5/수고르기/BOJ2230.java)
 - [숨바꼭질3](src/BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
+- [숫자고르기](src/BaekJoon/Gold5/숫자고르기/BOJ2668.java)
 - [신기한소수](src/BaekJoon/Gold5/신기한소수/BOJ2023.java)
 - [암호만들기](src/BaekJoon/Gold5/암호만들기/BOJ1759.java)
 - [암호코드](src/BaekJoon/Gold5/암호코드/BOJ2011.java)
