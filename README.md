@@ -7,6 +7,7 @@
 - [1학년](src/BaekJoon/Gold5/_1학년/BOJ5557.java)
 - [ABCDE](src/BaekJoon/Gold5/ABCDE/BOJ13023.java)
 - [AC](src/BaekJoon/Gold5/AC/BOJ5430.java)
+- [A와B](src/BaekJoon/Gold5/A와B/BOJ12904.java)
 - [FlymetotheAlphaCentauri](src/BaekJoon/Gold5/FlymetotheAlphaCentauri/BOJ1011.java)
 - [LCS](src/BaekJoon/Gold5/LCS/BOJ9251.java)
 - [감소하는수](src/BaekJoon/Gold5/감소하는수/BOJ1038.java)
