@@ -43,6 +43,7 @@
 - [옥상정원꾸미기](src/BaekJoon/Gold5/옥상정원꾸미기/BOJ6198.java)
 - [용액](src/BaekJoon/Gold5/용액/BOJ2467.java)
 - [입국심사](src/BaekJoon/Gold5/입국심사/BOJ3079.java)
+- [자두나무](src/BaekJoon/Gold5/자두나무/BOJ2240.java)
 - [적록색약](src/BaekJoon/Gold5/적록색약/BOJ10026.java)
 - [전깃줄](src/BaekJoon/Gold5/전깃줄/BOJ2565.java)
 - [주사위](src/BaekJoon/Gold5/주사위/BOJ1041.java)
