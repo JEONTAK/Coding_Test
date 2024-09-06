@@ -38,6 +38,7 @@
 - [상범빌딩](src/BaekJoon/Gold5/상범빌딩/BOJ6593.java)
 - [상어초등학교](src/BaekJoon/Gold5/상어초등학교/BOJ21608.java)
 - [선긋기](src/BaekJoon/Gold5/선긋기/BOJ2170.java)
+- [센서](src/BaekJoon/Gold5/센서/BOJ2212.java)
 - [수고르기](src/BaekJoon/Gold5/수고르기/BOJ2230.java)
 - [숨바꼭질3](src/BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
 - [숫자고르기](src/BaekJoon/Gold5/숫자고르기/BOJ2668.java)
