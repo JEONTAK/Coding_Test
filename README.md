@@ -14,6 +14,7 @@
 - [FlymetotheAlphaCentauri](src/BaekJoon/Gold5/FlymetotheAlphaCentauri/BOJ1011.java)
 - [LCS](src/BaekJoon/Gold5/LCS/BOJ9251.java)
 - [감소하는수](src/BaekJoon/Gold5/감소하는수/BOJ1038.java)
+- [감시피하기](src/BaekJoon/Gold5/감시피하기/BOJ18428.java)
 - [강의실배정](src/BaekJoon/Gold5/강의실배정/BOJ11000.java)
 - [개똥벌레](src/BaekJoon/Gold5/개똥벌레/BOJ3020.java)
 - [경쟁적전염](src/BaekJoon/Gold5/경쟁적전염/BOJ18405.java)
