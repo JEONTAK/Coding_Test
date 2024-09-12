@@ -30,6 +30,7 @@
 - [로봇청소기](src/BaekJoon/Gold5/로봇청소기/BOJ14503.java)
 - [로봇프로젝트](src/BaekJoon/Gold5/로봇프로젝트/BOJ3649.java)
 - [리모컨](src/BaekJoon/Gold5/리모컨/BOJ1107.java)
+- [링크와스타트](src/BaekJoon/Gold5/링크와스타트/BOJ15661.java)
 - [마법사상어와비바라기](src/BaekJoon/Gold5/마법사상어와비바라기/BOJ21610.java)
 - [맥주마시면서걸어가기](src/BaekJoon/Gold5/맥주마시면서걸어가기/BOJ9205.java)
 - [물통](src/BaekJoon/Gold5/물통/BOJ2251.java)
