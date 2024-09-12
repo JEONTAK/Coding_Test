@@ -61,6 +61,7 @@
 - [집합의표현](src/BaekJoon/Gold5/집합의표현/BOJ1717.java)
 - [최소비용구하기](src/BaekJoon/Gold5/최소비용구하기/BOJ1916.java)
 - [치킨배달](src/BaekJoon/Gold5/치킨배달/BOJ15686.java)
+- [카드게임](src/BaekJoon/Gold5/카드게임/BOJ10835.java)
 - [컨베이어벨트위의로봇](src/BaekJoon/Gold5/컨베이어벨트위의로봇/BOJ20055.java)
 - [탑](src/BaekJoon/Gold5/탑/BOJ2493.java)
 - [토마토](src/BaekJoon/Gold5/토마토/BOJ7576.java)
