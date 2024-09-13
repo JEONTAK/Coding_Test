@@ -18,6 +18,7 @@
 - [강의실배정](src/BaekJoon/Gold5/강의실배정/BOJ11000.java)
 - [개똥벌레](src/BaekJoon/Gold5/개똥벌레/BOJ3020.java)
 - [경쟁적전염](src/BaekJoon/Gold5/경쟁적전염/BOJ18405.java)
+- [계란으로계란치기](src/BaekJoon/Gold5/계란으로계란치기/BOJ16987.java)
 - [공주님을구해라!](src/BaekJoon/Gold5/공주님을구해라/BOJ17836.java)
 - [공통부분문자열](src/BaekJoon/Gold5/공통부분문자열/BOJ5582.java)
 - [괄호의값](src/BaekJoon/Gold5/괄호의값/BOJ2504.java)
