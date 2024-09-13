@@ -75,3 +75,4 @@
 - [하노이탑이동순서](src/BaekJoon/Gold5/하노이탑이동순서/BOJ11729.java)
 - [합분해](src/BaekJoon/Gold5/합분해/BOJ2225.java)
 - [회문](src/BaekJoon/Gold5/회문/BOJ17609.java)
+- [회장뽑기](src/BaekJoon/Gold5/회장뽑기/BOJ2660.java)
