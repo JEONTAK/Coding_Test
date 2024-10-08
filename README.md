@@ -37,6 +37,7 @@
 - [물통](src/BaekJoon/Gold5/물통/BOJ2251.java)
 - [배](src/BaekJoon/Gold5/배/BOJ1092.java)
 - [배열돌리기1](src/BaekJoon/Gold5/배열돌리기1/BOJ16926.java)
+- [배열돌리기3](src/BaekJoon/Gold5/배열돌리기3/BOJ16935.java)
 - [뱀과사다리게임](src/BaekJoon/Gold5/뱀과사다리게임/BOJ16928.java)
 - [별찍기 - 10](src/BaekJoon/Gold5/별찍기10/BOJ2447.java)
 - [보물섬](src/BaekJoon/Gold5/보물섬/BOJ2589.java)
