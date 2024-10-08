@@ -23,6 +23,7 @@
 - [공통부분문자열](src/BaekJoon/Gold5/공통부분문자열/BOJ5582.java)
 - [괄호의값](src/BaekJoon/Gold5/괄호의값/BOJ2504.java)
 - [내려가기](src/BaekJoon/Gold5/내려가기/BOJ2096.java)
+- [노드사이의거리](src/BaekJoon/Gold5/노드사이의거리/BOJ1240.java)
 - [다각형의면적](src/BaekJoon/Gold5/다각형의면적/BOJ2166.java)
 - [동전](src/BaekJoon/Gold5/동전/BOJ9084.java)
 - [동전1](src/BaekJoon/Gold5/동전1/BOJ2293.java)
