@@ -2,6 +2,11 @@
 
 ## BaekJoon
 
+### Gold4
+
+- [최단경로](src/BaekJoon/Gold4/최단경로/BOJ1753.java)
+
+
 ### Gold5
 
 - [1학년](src/BaekJoon/Gold5/_1학년/BOJ5557.java)
