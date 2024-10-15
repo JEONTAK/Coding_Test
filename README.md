@@ -5,7 +5,8 @@
 ### Gold4
 
 - [N-Queen](src/BaekJoon/Gold4/N_Queen/BOJ9663.java)
-- [누적합](src/BaekJoon/Gold4/부분합/BOJ1806.java)
+- [부분합](src/BaekJoon/Gold4/부분합/BOJ1806.java)
+- [스토쿠](src/BaekJoon/Gold4/스도쿠/BOJ2580.java)
 - [알파벳](src/BaekJoon/Gold4/알파벳/BOJ1987.java)
 - [연구소](src/BaekJoon/Gold4/연구소/BOJ14502.java)
 - [최단경로](src/BaekJoon/Gold4/최단경로/BOJ1753.java)
