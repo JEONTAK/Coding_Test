@@ -4,6 +4,7 @@
 
 ### Gold2
 
+- [가운데를말해요](src/BaekJoon/Gold2/가운데를말해요/BOJ1655.java)
 - [보석도둑](src/BaekJoon/Gold2/보석도둑/BOJ1202.java)
 
 
