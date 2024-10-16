@@ -2,6 +2,11 @@
 
 ## BaekJoon
 
+### Gold2
+
+- [보석도둑](src/BaekJoon/Gold2/보석도둑/BOJ1202.java)
+
+
 ### Gold4
 
 - [N-Queen](src/BaekJoon/Gold4/N_Queen/BOJ9663.java)
