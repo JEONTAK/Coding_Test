@@ -5,6 +5,7 @@
 ### Gold2
 
 - [가운데를말해요](src/BaekJoon/Gold2/가운데를말해요/BOJ1655.java)
+- [가장긴증가하는부분수열2](src/BaekJoon/Gold2/가장긴증가하는부분수열2/BOJ12015.java)
 - [보석도둑](src/BaekJoon/Gold2/보석도둑/BOJ1202.java)
 - [트리의지름](src/BaekJoon/Gold2/트리의지름/BOJ1167.java)
 
