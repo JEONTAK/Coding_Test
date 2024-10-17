@@ -7,6 +7,7 @@
 - [가운데를말해요](src/BaekJoon/Gold2/가운데를말해요/BOJ1655.java)
 - [가장긴증가하는부분수열2](src/BaekJoon/Gold2/가장긴증가하는부분수열2/BOJ12015.java)
 - [보석도둑](src/BaekJoon/Gold2/보석도둑/BOJ1202.java)
+- [스타트택시](src/BaekJoon/Gold2/스타트택시/BOJ19238.java)
 - [친구네트워크](src/BaekJoon/Gold2/친구네트워크/BOJ4195.java)
 - [트리의지름](src/BaekJoon/Gold2/트리의지름/BOJ1167.java)
 - [합이0인네정수](src/BaekJoon/Gold2/합이0인네정수/BOJ7453.java)
