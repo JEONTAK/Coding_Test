@@ -8,6 +8,7 @@
 - [가장긴증가하는부분수열2](src/BaekJoon/Gold2/가장긴증가하는부분수열2/BOJ12015.java)
 - [게임](src/BaekJoon/Gold2/게임/BOJ1103.java)
 - [공항](src/BaekJoon/Gold2/공항/BOJ10775.java)
+- [교환](src/BaekJoon/Gold2/교환/BOJ1039.java)
 - [문제집](src/BaekJoon/Gold2/문제집/BOJ1766.java)
 - [미확인도착지](src/BaekJoon/Gold2/미확인도착지/BOJ9370.java)
 - [벽부수고이동하기4](src/BaekJoon/Gold2/벅부수고이동하기4/BOJ16946.java)
