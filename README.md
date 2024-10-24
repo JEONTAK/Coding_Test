@@ -22,6 +22,7 @@
 - [저울](src/BaekJoon/Gold2/저울/BOJ2437.java)
 - [정렬](src/BaekJoon/Gold2/정렬/BOJ1377.java)
 - [친구네트워크](src/BaekJoon/Gold2/친구네트워크/BOJ4195.java)
+- [컬러볼](src/BaekJoon/Gold2/컬러볼/BOJ10800.java)
 - [트리의높이와너비](src/BaekJoon/Gold2/트리의높이와너비/BOJ2250.java)
 - [트리의지름](src/BaekJoon/Gold2/트리의지름/BOJ1167.java)
 - [피보나치수3](src/BaekJoon/Gold2/피보나치수3/BOJ2749.java)
