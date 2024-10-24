@@ -26,6 +26,7 @@
 - [컵라면](src/BaekJoon/Gold2/컵라면/BOJ1781.java)
 - [트리의높이와너비](src/BaekJoon/Gold2/트리의높이와너비/BOJ2250.java)
 - [트리의지름](src/BaekJoon/Gold2/트리의지름/BOJ1167.java)
+- [퍼즐](src/BaekJoon/Gold2/퍼즐/BOJ1525.java)
 - [피보나치수3](src/BaekJoon/Gold2/피보나치수3/BOJ2749.java)
 - [합이0인네정수](src/BaekJoon/Gold2/합이0인네정수/BOJ7453.java)
 - [후위표기식](src/BaekJoon/Gold2/후위표기식/BOJ1918.java)
