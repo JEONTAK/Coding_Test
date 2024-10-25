@@ -6,6 +6,7 @@
 
 - [가운데를말해요](src/BaekJoon/Gold2/가운데를말해요/BOJ1655.java)
 - [가장긴증가하는부분수열2](src/BaekJoon/Gold2/가장긴증가하는부분수열2/BOJ12015.java)
+- [가장긴증가하는부분수열3](src/BaekJoon/Gold2/가장긴증가하는부분수열3/BOJ12738.java)
 - [게임](src/BaekJoon/Gold2/게임/BOJ1103.java)
 - [공항](src/BaekJoon/Gold2/공항/BOJ10775.java)
 - [교환](src/BaekJoon/Gold2/교환/BOJ1039.java)
