@@ -17,6 +17,7 @@
 - [보석도둑](src/BaekJoon/Gold2/보석도둑/BOJ1202.java)
 - [빵집](src/BaekJoon/Gold2/빵집/BOJ3109.java)
 - [사전](src/BaekJoon/Gold2/사전/BOJ1256.java)
+- [새로운게임2](src/BaekJoon/Gold2/새로운게임2/BOJ17837.java)
 - [색종이붙이기](src/BaekJoon/Gold2/색종이붙이기/BOJ17136.java)
 - [선분교차2](src/BaekJoon/Gold2/선분교차2/BOJ17387.java)
 - [스타트택시](src/BaekJoon/Gold2/스타트택시/BOJ19238.java)
