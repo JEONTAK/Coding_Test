@@ -119,6 +119,7 @@ public class BOJ17837 {
         return i;
     }
 
+
     static boolean isAvailable(int x, int y) {
         return x >= 0 && x < N && y >= 0 && y < N;
     }
