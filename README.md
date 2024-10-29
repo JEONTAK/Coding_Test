@@ -24,6 +24,8 @@
 - [원판돌리기](src/BaekJoon/Gold2/원판돌리기/BOJ17822.java)
 - [저울](src/BaekJoon/Gold2/저울/BOJ2437.java)
 - [정렬](src/BaekJoon/Gold2/정렬/BOJ1377.java)
+- [주사위윷놀이](src/BaekJoon/Gold2/주사위윷놀이/BOJ17825.java)
+- [청소년상어](src/BaekJoon/Gold2/청소년상어/BOJ19236.java)
 - [친구네트워크](src/BaekJoon/Gold2/친구네트워크/BOJ4195.java)
 - [컬러볼](src/BaekJoon/Gold2/컬러볼/BOJ10800.java)
 - [컵라면](src/BaekJoon/Gold2/컵라면/BOJ1781.java)
