@@ -1,4 +1,4 @@
-# 코딩 테스트 풀이 모음
+# 코딩테스트 풀이 모음
 
 ## BaekJoon
 
@@ -16,6 +16,7 @@
 - [반도체설계](src/BaekJoon/Gold2/반도체설계/BOJ2352.java)
 - [벽부수고이동하기4](src/BaekJoon/Gold2/벅부수고이동하기4/BOJ16946.java)
 - [보석도둑](src/BaekJoon/Gold2/보석도둑/BOJ1202.java)
+- [불켜기](src/BaekJoon/Gold2/불켜기/BOJ11967.java)
 - [빵집](src/BaekJoon/Gold2/빵집/BOJ3109.java)
 - [사전](src/BaekJoon/Gold2/사전/BOJ1256.java)
 - [상어중학교](src/BaekJoon/Gold2/상어중학교/BOJ21609.java)
