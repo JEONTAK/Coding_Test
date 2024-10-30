@@ -13,6 +13,7 @@
 - [로봇조종하기](src/BaekJoon/Gold2/로봇조종하기/BOJ2169.java)
 - [문제집](src/BaekJoon/Gold2/문제집/BOJ1766.java)
 - [미확인도착지](src/BaekJoon/Gold2/미확인도착지/BOJ9370.java)
+- [반도체설계](src/BaekJoon/Gold2/반도체설계/BOJ2352.java)
 - [벽부수고이동하기4](src/BaekJoon/Gold2/벅부수고이동하기4/BOJ16946.java)
 - [보석도둑](src/BaekJoon/Gold2/보석도둑/BOJ1202.java)
 - [빵집](src/BaekJoon/Gold2/빵집/BOJ3109.java)
