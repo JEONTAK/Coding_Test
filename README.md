@@ -38,6 +38,7 @@
 - [퍼즐](src/BaekJoon/Gold2/퍼즐/BOJ1525.java)
 - [피보나치수3](src/BaekJoon/Gold2/피보나치수3/BOJ2749.java)
 - [합이0인네정수](src/BaekJoon/Gold2/합이0인네정수/BOJ7453.java)
+- [환승](src/BaekJoon/Gold2/환승/BOJ5214.java)
 - [후위표기식](src/BaekJoon/Gold2/후위표기식/BOJ1918.java)
 
 
