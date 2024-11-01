@@ -34,6 +34,7 @@
 - [친구네트워크](src/BaekJoon/Gold2/친구네트워크/BOJ4195.java)
 - [컬러볼](src/BaekJoon/Gold2/컬러볼/BOJ10800.java)
 - [컵라면](src/BaekJoon/Gold2/컵라면/BOJ1781.java)
+- [통나무옮기기](src/BaekJoon/Gold2/통나무옮기기/BOJ1938.java)
 - [트리의높이와너비](src/BaekJoon/Gold2/트리의높이와너비/BOJ2250.java)
 - [트리의지름](src/BaekJoon/Gold2/트리의지름/BOJ1167.java)
 - [퍼즐](src/BaekJoon/Gold2/퍼즐/BOJ1525.java)
