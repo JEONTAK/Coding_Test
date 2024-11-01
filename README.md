@@ -24,6 +24,7 @@
 - [색종이붙이기](src/BaekJoon/Gold2/색종이붙이기/BOJ17136.java)
 - [선분교차2](src/BaekJoon/Gold2/선분교차2/BOJ17387.java)
 - [스타트택시](src/BaekJoon/Gold2/스타트택시/BOJ19238.java)
+- [우수마을](src/BaekJoon/Gold2/우수마을/BOJ1949.java)
 - [원판돌리기](src/BaekJoon/Gold2/원판돌리기/BOJ17822.java)
 - [저울](src/BaekJoon/Gold2/저울/BOJ2437.java)
 - [정렬](src/BaekJoon/Gold2/정렬/BOJ1377.java)
