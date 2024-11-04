@@ -11,6 +11,7 @@
 - [공항](src/BaekJoon/Gold2/공항/BOJ10775.java)
 - [교환](src/BaekJoon/Gold2/교환/BOJ1039.java)
 - [로봇조종하기](src/BaekJoon/Gold2/로봇조종하기/BOJ2169.java)
+- [모노미노도미노2](src/BaekJoon/Gold2/모노미노도미노2/BOJ20061.java)
 - [문제집](src/BaekJoon/Gold2/문제집/BOJ1766.java)
 - [미확인도착지](src/BaekJoon/Gold2/미확인도착지/BOJ9370.java)
 - [반도체설계](src/BaekJoon/Gold2/반도체설계/BOJ2352.java)
