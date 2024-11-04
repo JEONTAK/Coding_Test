@@ -30,6 +30,7 @@
 - [저울](src/BaekJoon/Gold2/저울/BOJ2437.java)
 - [정렬](src/BaekJoon/Gold2/정렬/BOJ1377.java)
 - [주사위윷놀이](src/BaekJoon/Gold2/주사위윷놀이/BOJ17825.java)
+- [중앙값구하기](src/BaekJoon/Gold2/중앙값구하기/BOJ2696.java)
 - [책나눠주기](src/BaekJoon/Gold2/책나눠주기/BOJ9576.java)
 - [철로](src/BaekJoon/Gold2/철로/BOJ13334.java)
 - [청소년상어](src/BaekJoon/Gold2/청소년상어/BOJ19236.java)
