@@ -46,6 +46,7 @@
 - [플로이드2](src/BaekJoon/Gold2/플로이드2/BOJ11780.java)
 - [피보나치수3](src/BaekJoon/Gold2/피보나치수3/BOJ2749.java)
 - [합이0인네정수](src/BaekJoon/Gold2/합이0인네정수/BOJ7453.java)
+- [확장게임](src/BaekJoon/Gold2/확장게임/BOJ16920.java)
 - [환승](src/BaekJoon/Gold2/환승/BOJ5214.java)
 - [회의준비](src/BaekJoon/Gold2/회의준비/BOJ2610.java)
 - [후위표기식](src/BaekJoon/Gold2/후위표기식/BOJ1918.java)
