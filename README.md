@@ -28,6 +28,7 @@
 - [연료채우기](src/BaekJoon/Gold2/연료채우기/BOJ1826.java)
 - [우수마을](src/BaekJoon/Gold2/우수마을/BOJ1949.java)
 - [원판돌리기](src/BaekJoon/Gold2/원판돌리기/BOJ17822.java)
+- [장난감조립](src/BaekJoon/Gold2/장난감조립/BOJ2637.java)
 - [저울](src/BaekJoon/Gold2/저울/BOJ2437.java)
 - [정렬](src/BaekJoon/Gold2/정렬/BOJ1377.java)
 - [주사위윷놀이](src/BaekJoon/Gold2/주사위윷놀이/BOJ17825.java)
