@@ -24,6 +24,7 @@
 - [새로운게임2](src/BaekJoon/Gold2/새로운게임2/BOJ17837.java)
 - [색종이붙이기](src/BaekJoon/Gold2/색종이붙이기/BOJ17136.java)
 - [선분교차2](src/BaekJoon/Gold2/선분교차2/BOJ17387.java)
+- [성냥개비](src/BaekJoon/Gold2/성냥개비/BOJ3687.java)
 - [스타트택시](src/BaekJoon/Gold2/스타트택시/BOJ19238.java)
 - [연료채우기](src/BaekJoon/Gold2/연료채우기/BOJ1826.java)
 - [우수마을](src/BaekJoon/Gold2/우수마을/BOJ1949.java)
