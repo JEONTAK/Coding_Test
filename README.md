@@ -15,6 +15,7 @@
 - [모노미노도미노2](src/BaekJoon/Gold2/모노미노도미노2/BOJ20061.java)
 - [문제집](src/BaekJoon/Gold2/문제집/BOJ1766.java)
 - [미확인도착지](src/BaekJoon/Gold2/미확인도착지/BOJ9370.java)
+- [박스채우기](src/BaekJoon/Gold2/박스채우기/BOJ1493.java)
 - [반도체설계](src/BaekJoon/Gold2/반도체설계/BOJ2352.java)
 - [벽부수고이동하기4](src/BaekJoon/Gold2/벅부수고이동하기4/BOJ16946.java)
 - [보석도둑](src/BaekJoon/Gold2/보석도둑/BOJ1202.java)
