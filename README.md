@@ -30,6 +30,7 @@
 - [성냥개비](src/BaekJoon/Gold2/성냥개비/BOJ3687.java)
 - [스타트택시](src/BaekJoon/Gold2/스타트택시/BOJ19238.java)
 - [연료채우기](src/BaekJoon/Gold2/연료채우기/BOJ1826.java)
+- [오름세](src/BaekJoon/Gold2/오름세/BOJ3745.java)
 - [우수마을](src/BaekJoon/Gold2/우수마을/BOJ1949.java)
 - [원판돌리기](src/BaekJoon/Gold2/원판돌리기/BOJ17822.java)
 - [장난감조립](src/BaekJoon/Gold2/장난감조립/BOJ2637.java)
