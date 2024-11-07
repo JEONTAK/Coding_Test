@@ -10,6 +10,7 @@
 - [게임](src/BaekJoon/Gold2/게임/BOJ1103.java)
 - [공항](src/BaekJoon/Gold2/공항/BOJ10775.java)
 - [교환](src/BaekJoon/Gold2/교환/BOJ1039.java)
+- [기업투자](src/BaekJoon/Gold2/기업투자/BOJ2662.java)
 - [꼬인전깃줄](src/BaekJoon/Gold2/BOJ1365/BOJ1365.java)
 - [네트워크복구](src/BaekJoon/Gold2/네트워크복구/BOJ2211.java)
 - [로봇조종하기](src/BaekJoon/Gold2/로봇조종하기/BOJ2169.java)
