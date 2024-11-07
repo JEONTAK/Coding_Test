@@ -43,6 +43,7 @@
 - [철로](src/BaekJoon/Gold2/철로/BOJ13334.java)
 - [청소년상어](src/BaekJoon/Gold2/청소년상어/BOJ19236.java)
 - [친구네트워크](src/BaekJoon/Gold2/친구네트워크/BOJ4195.java)
+- [칵테일](src/BaekJoon/Gold2/칵테일/BOJ1033.java)
 - [컬러볼](src/BaekJoon/Gold2/컬러볼/BOJ10800.java)
 - [컵라면](src/BaekJoon/Gold2/컵라면/BOJ1781.java)
 - [통나무옮기기](src/BaekJoon/Gold2/통나무옮기기/BOJ1938.java)
