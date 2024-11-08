@@ -2,6 +2,10 @@
 
 ## BaekJoon
 
+### Gold3
+
+- [벽부수고이동하기3](src/BaekJoon/Gold1/벽부수고이동하기3/BOJ16933.java)
+
 ### Gold2
 
 - [가운데를말해요](src/BaekJoon/Gold2/가운데를말해요/BOJ1655.java)
