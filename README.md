@@ -5,6 +5,7 @@
 ### Gold3
 
 - [벽부수고이동하기3](src/BaekJoon/Gold1/벽부수고이동하기3/BOJ16933.java)
+- [소수의곱](src/BaekJoon/Gold1/소수의곱/BOJ2014.java)
 - [열쇠](src/BaekJoon/Gold1/열쇠/BOJ9328.java)
 
 ### Gold2
