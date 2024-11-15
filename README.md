@@ -15,6 +15,7 @@
 - [어른상어](src/BaekJoon/Gold1/어른상어/BOJ19237.java)
 - [열쇠](src/BaekJoon/Gold1/열쇠/BOJ9328.java)
 - [최종순위](src/BaekJoon/Gold1/최종순위/BOJ3665.java)
+- [택배](src/BaekJoon/Gold1/택배/BOJ8980.java)
 
 ### Gold2
 
