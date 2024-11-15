@@ -2,8 +2,11 @@
 
 ## BaekJoon
 
-### Gold3
+### Gold1
 
+- [계단수](src/BaekJoon/Gold1/계단수/BOJ1562.java)
+- [구슬탈출](src/BaekJoon/Gold1/구슬탈출/BOJ13459.java)
+- [놀이공원](src/BaekJoon/Gold1/놀이공원/BOJ1561.java)
 - [마법사상어와블리자드](src/BaekJoon/Gold1/마법사상어와블리자드/BOJ21611.java)
 - [미네랄](src/BaekJoon/Gold1/미네랄/BOJ2933.java)
 - [벽부수고이동하기3](src/BaekJoon/Gold1/벽부수고이동하기3/BOJ16933.java)
