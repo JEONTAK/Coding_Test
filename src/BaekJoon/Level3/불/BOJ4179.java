@@ -86,7 +86,10 @@ public class BOJ4179 {
                 int nx = cur.x + dx[i];
                 int ny = cur.y + dy[i];
 
-                if (isAvailable(nx, ny) && map[nx][ny] != '#' && !visited[nx][ny] && (fireTime[nx][ny] == -1 || cur.t + 1 < fireTime[nx][ny])) {
+                if (isAvailable(nx, ny)
+                        && map[nx][ny] != '#'
+                        && !visited[nx][ny]
+                        && (fireTime[nx][ny] == -1 || cur.t + 1 < fireTime[nx][ny])) {
                     visited[nx][ny] = true;
                     q.add(new Node(nx, ny, cur.t + 1));
                 }
