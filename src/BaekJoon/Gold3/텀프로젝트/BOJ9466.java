@@ -1,4 +1,4 @@
-package BaekJoon.Level3.텀프로젝트;
+package BaekJoon.Gold3.텀프로젝트;
 
 import java.io.BufferedReader;
 import java.io.IOException;

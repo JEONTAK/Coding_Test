@@ -1,4 +1,4 @@
-package BaekJoon.Level3.웜홀;
+package BaekJoon.Gold3.웜홀;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -135,4 +135,8 @@ public class BOJ1865 {
 3. 종료 조건
     - 한 번이라도 음수 사이클 발견되면 해당 TC 결과는 YES
     - 없다면 NO
+
+주의할 점
+    - 해당 문제는 모든 지점에서 음수사이클을 판별하면 시간 초과가 남
+    - 따라서 하나의 지점을 시작점으로 잡고 음수 사이클을 탐지한 후 TC 결과를 반환함
  */

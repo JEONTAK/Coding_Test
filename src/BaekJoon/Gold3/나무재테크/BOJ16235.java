@@ -1,4 +1,4 @@
-package BaekJoon.Level3.나무재테크;
+package BaekJoon.Gold3.나무재테크;
 
 import java.io.BufferedReader;
 import java.io.IOException;

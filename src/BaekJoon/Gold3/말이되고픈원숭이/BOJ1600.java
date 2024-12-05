@@ -1,4 +1,4 @@
-package BaekJoon.Level3.말이되고픈원숭이;
+package BaekJoon.Gold3.말이되고픈원숭이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

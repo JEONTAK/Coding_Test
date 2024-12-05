@@ -1,4 +1,4 @@
-package BaekJoon.Level3.벽부수고이동하기;
+package BaekJoon.Gold3.벽부수고이동하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

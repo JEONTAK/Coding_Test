@@ -1,4 +1,4 @@
-package BaekJoon.Level3.내리막길;
+package BaekJoon.Gold3.내리막길;
 
 import java.io.BufferedReader;
 import java.io.IOException;

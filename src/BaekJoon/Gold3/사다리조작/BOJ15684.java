@@ -1,4 +1,4 @@
-package BaekJoon.Level3.사다리조작;
+package BaekJoon.Gold3.사다리조작;
 
 import java.io.BufferedReader;
 import java.io.IOException;

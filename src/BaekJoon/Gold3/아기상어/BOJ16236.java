@@ -1,4 +1,4 @@
-package BaekJoon.Level3.아기상어;
+package BaekJoon.Gold3.아기상어;
 
 import java.io.BufferedReader;
 import java.io.IOException;

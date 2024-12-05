@@ -1,4 +1,4 @@
-package BaekJoon.Level3.ACMCraft;
+package BaekJoon.Gold3.ACMCraft;
 
 import java.io.BufferedReader;
 import java.io.IOException;
