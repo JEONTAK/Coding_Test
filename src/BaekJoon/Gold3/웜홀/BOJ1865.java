@@ -20,7 +20,6 @@ public class BOJ1865 {
 
     static int T, N, M, W;
     static ArrayList<Node>[] list;
-    static final int INF = 1_000_000_000;
 
     private static void solution() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
