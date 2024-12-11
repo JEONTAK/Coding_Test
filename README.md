@@ -13,6 +13,7 @@
 - [나머지 합](src/BaekJoon/Gold3/나머지합/BOJ10986.java)
 - [나무 재테크](src/BaekJoon/Gold3/나무재테크/BOJ16235.java)
 - [내리막길](src/BaekJoon/Gold3/내리막길/BOJ2206.java)
+- [다리 만들기](src/BaekJoon/Gold3/다리만들기/BOJ2146.java)
 - [말이 되고픈 원숭이](src/BaekJoon/Gold3/말이되고픈원숭이/BOJ1600.java)
 - [벽 부수고 이동하기](src/BaekJoon/Gold3/벽부수고이동하기/BOJ2206.java)
 - [불!](src/BaekJoon/Gold3/불/BOJ4179.java)
