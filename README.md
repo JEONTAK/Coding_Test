@@ -6,7 +6,7 @@
 
 ## BaekJoon
 
-### Level3
+### Gold 3
 
 - [ACM Craft](src/BaekJoon/Gold3/ACMCraft/BOJ1005.java)
 - [감시](src/BaekJoon/Gold3/감시/BOJ15683.java)
@@ -25,3 +25,11 @@
 - [줄 세우기](src/BaekJoon/Gold3/줄세우기/BOJ2252.java)
 - [텀 프로젝트](src/BaekJoon/Gold3/텀프로젝트/BOJ9466.java)
 - [파티](src/BaekJoon/Gold3/파티/BOJ12387.java)
+
+### Silver 1
+
+- [회의실 배정](src/BaekJoon/Silver1/회의실배정/BOJ1931.java)
+
+### Silver 2
+
+- [잃어버린 괄호](src/BaekJoon/Silver2/잃어버린괄호/BOJ1541.java)
