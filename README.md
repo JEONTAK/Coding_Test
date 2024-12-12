@@ -24,6 +24,7 @@
 - [욕심쟁이 판다](src/BaekJoon/Gold3/욕심쟁이판다/BOJ1937.java)
 - [웜홀](src/BaekJoon/Gold3/웜홀/BOJ1865.java)
 - [줄 세우기](src/BaekJoon/Gold3/줄세우기/BOJ2252.java)
+- [중량제한](src/BaekJoon/Gold3/중량제한/BOJ1939.java)
 - [텀 프로젝트](src/BaekJoon/Gold3/텀프로젝트/BOJ9466.java)
 - [파티](src/BaekJoon/Gold3/파티/BOJ12387.java)
 
