@@ -1,4 +1,4 @@
-package BaekJoon.Gold5.FlymetotheAlphaCentauri;
+package Legacy.BaekJoon.Gold5.FlymetotheAlphaCentauri;
 
 import java.io.BufferedReader;
 import java.io.IOException;

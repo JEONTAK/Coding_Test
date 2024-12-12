@@ -1,4 +1,4 @@
-package BaekJoon.Gold1.계단수;
+package Legacy.BaekJoon.Gold1.계단수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

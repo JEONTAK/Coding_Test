@@ -27,6 +27,10 @@
 - [텀 프로젝트](src/BaekJoon/Gold3/텀프로젝트/BOJ9466.java)
 - [파티](src/BaekJoon/Gold3/파티/BOJ12387.java)
 
+### Gold 5
+
+- [Fly me to the Alpha Centauri](src/BaekJoon/Gold5/FlymetotheAlphaCentauri/BOJ1011.java)
+
 ### Silver 1
 
 - [회의실 배정](src/BaekJoon/Silver1/회의실배정/BOJ1931.java)
