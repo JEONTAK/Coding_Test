@@ -40,6 +40,7 @@
 ### Silver 2
 
 - [베르트랑 공준](src/BaekJoon/Silver2/베르트랑공준/BOJ4948.java)
+- [신나는 함수 실행](src/BaekJoon/Silver2/신나는함수실행/BOJ9184.java)
 - [잃어버린 괄호](src/BaekJoon/Silver2/잃어버린괄호/BOJ1541.java)
 
 ### Silver 3
