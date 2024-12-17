@@ -11,7 +11,6 @@ import java.util.StringTokenizer;
 
 public class BOJ11779 {
 
-
     static class Node implements Comparable<Node>{
         int city;
         int cost;
