@@ -26,6 +26,7 @@
 - [웜홀](src/BaekJoon/Gold3/웜홀/BOJ1865.java)
 - [줄 세우기](src/BaekJoon/Gold3/줄세우기/BOJ2252.java)
 - [중량제한](src/BaekJoon/Gold3/중량제한/BOJ1939.java)
+- [최소비용 구하기 2](src/BaekJoon/Gold3/최소비용구하기2/BOJ11779.java)
 - [텀 프로젝트](src/BaekJoon/Gold3/텀프로젝트/BOJ9466.java)
 - [파티](src/BaekJoon/Gold3/파티/BOJ12387.java)
 - [행렬 곱셈 순서](src/BaekJoon/Gold3/행렬곱셈순서/BOJ11049.java)
@@ -36,6 +37,7 @@
 
 ### Silver 1
 
+- [RGB거리](src/BaekJoon/Silver1/RGB거리/BOJ1149.java)
 - [회의실 배정](src/BaekJoon/Silver1/회의실배정/BOJ1931.java)
 
 ### Silver 2
@@ -49,3 +51,4 @@
 - [01타일](src/BaekJoon/Silver3/_01타일/BOJ1904.java)
 - [주유소](src/BaekJoon/Silver3/주유소/BOJ13305.java)
 - [터렛](src/BaekJoon/Silver3/터렛/BOJ1002.java)
+- [파도반 수열](src/BaekJoon/Silver3/파도반수열/BOJ9461.java)
