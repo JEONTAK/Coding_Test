@@ -48,6 +48,7 @@
 
 ### Silver 3
 
+- [1로 만들기](src/BaekJoon/Silver3/_1로만들기/BOJ1463.java)
 - [01타일](src/BaekJoon/Silver3/_01타일/BOJ1904.java)
 - [계단 오르기](src/BaekJoon/Silver3/계단오르기/BOJ2579.java)
 - [주유소](src/BaekJoon/Silver3/주유소/BOJ13305.java)
