@@ -40,6 +40,7 @@
 
 - [RGB거리](src/BaekJoon/Silver1/RGB거리/BOJ1149.java)
 - [쉬운 계단 수](src/BaekJoon/Silver1/쉬운계단수/BOJ10844.java)
+- [포도주 시식](src/BaekJoon/Silver1/포도주시식/BOJ2156.java)
 - [회의실 배정](src/BaekJoon/Silver1/회의실배정/BOJ1931.java)
 
 ### Silver 2
