@@ -33,6 +33,10 @@
 - [파티](src/BaekJoon/Gold3/파티/BOJ12387.java)
 - [행렬 곱셈 순서](src/BaekJoon/Gold3/행렬곱셈순서/BOJ11049.java)
 
+### Gold 4
+
+- [가장 긴 바이토닉 부분 수열](src/BaekJoon/Gold3/세용액/BOJ11054.java)
+
 ### Gold 5
 
 - [Fly me to the Alpha Centauri](src/BaekJoon/Gold5/FlymetotheAlphaCentauri/BOJ1011.java)
