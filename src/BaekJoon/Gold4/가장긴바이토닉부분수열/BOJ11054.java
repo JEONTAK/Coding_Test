@@ -1,4 +1,4 @@
-package BaekJoon.Gold3.세용액;
+package BaekJoon.Gold4.가장긴바이토닉부분수열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

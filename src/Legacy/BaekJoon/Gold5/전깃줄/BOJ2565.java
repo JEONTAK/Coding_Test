@@ -1,4 +1,4 @@
-package BaekJoon.Gold5.전깃줄;
+package Legacy.BaekJoon.Gold5.전깃줄;
 
 import java.io.BufferedReader;
 import java.io.IOException;
