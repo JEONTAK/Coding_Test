@@ -27,7 +27,7 @@ public class BOJ2565 {
         seq[0] = wire[0][1];
         int len = 1;
 
-        for (int i =  + 1; i < N; i++) {
+        for (int i = 1; i < N; i++) {
             int cur = wire[i][1];
             if (seq[len - 1] < cur) {
                 len++;
