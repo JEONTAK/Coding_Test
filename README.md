@@ -64,3 +64,11 @@
 - [주유소](src/BaekJoon/Silver3/주유소/BOJ13305.java)
 - [터렛](src/BaekJoon/Silver3/터렛/BOJ1002.java)
 - [파도반 수열](src/BaekJoon/Silver3/파도반수열/BOJ9461.java)
+
+## Programmers
+
+- [두 수의 차](src/Programmers/Codekata/_1_두수의차.java)
+- [두 수의 곱](src/Programmers/Codekata/_2_두수의곱.java)
+- [몫 구하기](src/Programmers/Codekata/_3_몫구하기.java)
+- [나이 출력](src/Programmers/Codekata/_4_나이출력.java)
+- [숫자 비교하기](src/Programmers/Codekata/_5_숫자비교하기.java)
