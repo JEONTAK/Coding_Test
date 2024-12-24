@@ -72,3 +72,8 @@
 - [몫 구하기](src/Programmers/Codekata/_3_몫구하기.java)
 - [나이 출력](src/Programmers/Codekata/_4_나이출력.java)
 - [숫자 비교하기](src/Programmers/Codekata/_5_숫자비교하기.java)
+- [두 수의 합](src/Programmers/Codekata/_6_두수의합.java)
+- [두 수의 나눗셈](src/Programmers/Codekata/_7_두수의나눗셈.java)
+- [각도기](src/Programmers/Codekata/_8_각도기.java)
+- [짝수의 합](src/Programmers/Codekata/_9_짝수의합.java)
+- [배열의 평균값](src/Programmers/Codekata/_10_배열의평균값.java)

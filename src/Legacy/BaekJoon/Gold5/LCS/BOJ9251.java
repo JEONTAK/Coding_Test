@@ -1,4 +1,4 @@
-package BaekJoon.Gold5.LCS;
+package Legacy.BaekJoon.Gold5.LCS;
 
 import java.io.BufferedReader;
 import java.io.IOException;
