@@ -1,4 +1,4 @@
-package BaekJoon.Gold5.평범한배낭;
+package Legacy.BaekJoon.Gold5.평범한배낭;
 
 import java.io.BufferedReader;
 import java.io.IOException;
