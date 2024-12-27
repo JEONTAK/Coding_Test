@@ -41,7 +41,9 @@
 ### Gold 5
 
 - [Fly me to the Alpha Centauri](src/BaekJoon/Gold5/FlymetotheAlphaCentauri/BOJ1011.java)
+- [LCS](src/BaekJoon/Gold5/LCS/BOJ9251.java)
 - [전깃줄](src/BaekJoon/Gold5/전깃줄/BOJ2565.java)
+- [평범한 배낭](src/BaekJoon/Gold5/평범한배낭/BOJ12865.java)
 
 ### Silver 1
 
@@ -52,8 +54,10 @@
 
 ### Silver 2
 
+- [가장 긴 증가하는 부분 수열](src/BaekJoon/Silver2/가장긴증가하는부분수열/BOJ11053.java)
 - [베르트랑 공준](src/BaekJoon/Silver2/베르트랑공준/BOJ4948.java)
 - [신나는 함수 실행](src/BaekJoon/Silver2/신나는함수실행/BOJ9184.java)
+- [연속합](src/BaekJoon/Silver2/연속합/BOJ1912.java)
 - [잃어버린 괄호](src/BaekJoon/Silver2/잃어버린괄호/BOJ1541.java)
 
 ### Silver 3
@@ -64,6 +68,7 @@
 - [주유소](src/BaekJoon/Silver3/주유소/BOJ13305.java)
 - [터렛](src/BaekJoon/Silver3/터렛/BOJ1002.java)
 - [파도반 수열](src/BaekJoon/Silver3/파도반수열/BOJ9461.java)
+- [피보나치 함수](src/BaekJoon/Silver3/피보나치함수/BOJ1003.java)
 
 ## Programmers
 
@@ -77,3 +82,13 @@
 - [각도기](src/Programmers/Codekata/_8_각도기.java)
 - [짝수의 합](src/Programmers/Codekata/_9_짝수의합.java)
 - [배열의 평균값](src/Programmers/Codekata/_10_배열의평균값.java)
+- [짝수와 홀수](src/Programmers/Codekata/_11_짝수와홀수.java)
+- [평균 구하기](src/Programmers/Codekata/_12_평균구하기.java)
+- [자릿수 더하기](src/Programmers/Codekata/_13_자릿수더하기.java)
+- [약수의 합](src/Programmers/Codekata/_14_약수의합.java)
+- [나머지가 1이 되는 수 찾기](  src/Programmers/Codekata/_15_나머지가1이되는수찾기.java)
+- [x만큼 간격이 있는 n개의 숫자](src/Programmers/Codekata/_16_x만큼간격이있는n개의숫자.java)
+- [자연수 뒤집어 배열로 만들기](src/Programmers/Codekata/_17_자연수뒤집어배열로만들기.java)
+- [문자열을 정수로 바꾸기](src/Programmers/Codekata/_18_문자열을정수로바꾸기.java)
+- [정수 제곱근 판별](src/Programmers/Codekata/_19_정수제곱근판별.java)
+- [정수 내림차순으로 배치하기](src/Programmers/Codekata/_20_정수내림차순으로배치하기.java)
