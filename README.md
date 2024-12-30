@@ -93,3 +93,8 @@
 - [문자열을 정수로 바꾸기](src/Programmers/Codekata/_18_문자열을정수로바꾸기.java)
 - [정수 제곱근 판별](src/Programmers/Codekata/_19_정수제곱근판별.java)
 - [정수 내림차순으로 배치하기](src/Programmers/Codekata/_20_정수내림차순으로배치하기.java)
+- [하샤드 수](src/Programmers/Codekata/_21_하샤드수.java)
+- [두 정수 사이의 합](src/Programmers/Codekata/_22_두정수사이의합.java)
+- [콜라츠 추측](src/Programmers/Codekata/_23_콜라츠추측.java)
+- [서울에서 김서방 찾기](src/Programmers/Codekata/_24_서울에서김서방찾기.java)
+- [나누어 떨어지는 숫자 배열](src/Programmers/Codekata/_25_나누어떨어지는숫자배열.java)
