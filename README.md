@@ -38,6 +38,7 @@
 ### Gold 4
 
 - [가장 긴 바이토닉 부분 수열](src/BaekJoon/Gold3/세용액/BOJ11054.java)
+- [팰린드롬?](src/BaekJoon/Gold4/팰린드롬/BOJ10942.java)
 
 ### Gold 5
 
