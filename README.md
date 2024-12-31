@@ -98,3 +98,8 @@
 - [콜라츠 추측](src/Programmers/Codekata/_23_콜라츠추측.java)
 - [서울에서 김서방 찾기](src/Programmers/Codekata/_24_서울에서김서방찾기.java)
 - [나누어 떨어지는 숫자 배열](src/Programmers/Codekata/_25_나누어떨어지는숫자배열.java)
+- [음양 더하기](src/Programmers/Codekata/_26_음양더하기.java)
+- [핸드폰 번호 가리기](src/Programmers/Codekata/_27_핸드폰번호가리기.java)
+- [없는 숫자 더하기](src/Programmers/Codekata/_28_없는숫자더하기.java)
+- [제일 작은 수 제거하기](src/Programmers/Codekata/_29_제일작은수제거하기.java)
+- [가운데 글자 가져오기](src/Programmers/Codekata/_30_가운데글자가져오기.java)
