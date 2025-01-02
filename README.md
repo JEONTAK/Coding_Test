@@ -104,3 +104,13 @@
 - [없는 숫자 더하기](src/Programmers/Codekata/_28_없는숫자더하기.java)
 - [제일 작은 수 제거하기](src/Programmers/Codekata/_29_제일작은수제거하기.java)
 - [가운데 글자 가져오기](src/Programmers/Codekata/_30_가운데글자가져오기.java)
+- [수박수박수박수박수박수?](src/Programmers/Codekata/_31_수박수박수박수박수박수.java)
+- [내적](src/Programmers/Codekata/_32_내적.java)
+- [약수의 개수와 덧셈](src/Programmers/Codekata/_33_약수의개수와덧셈.java)
+- [문자열 내림차순으로 배치하기](src/Programmers/Codekata/_34_문자열내림차순으로배치하기.java)
+- [부족한 금액 계산하기](src/Programmers/Codekata/_35_부족한금액계산하기.java)
+
+
+
+
+
