@@ -1,7 +1,6 @@
 package Programmers.Codekata;
 
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
+import java.util.stream.*;
 
 public class _31_수박수박수박수박수박수 {
 

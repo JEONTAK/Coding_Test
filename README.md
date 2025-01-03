@@ -109,8 +109,9 @@
 - [약수의 개수와 덧셈](src/Programmers/Codekata/_33_약수의개수와덧셈.java)
 - [문자열 내림차순으로 배치하기](src/Programmers/Codekata/_34_문자열내림차순으로배치하기.java)
 - [부족한 금액 계산하기](src/Programmers/Codekata/_35_부족한금액계산하기.java)
-
-
-
-
+- [문자열 다루기 기본](src/Programmers/Codekata/_36_문자열다루기기본.java)
+- [행렬의 덧셈](src/Programmers/Codekata/_37_행렬의덧셈.java)
+- [직사각형 별찍기](src/Programmers/Codekata/_38_직사각형별찍기.java)
+- [최대 공약수와 최소 공배수](src/Programmers/Codekata/_39_최대공약수와최소공배수.java)
+- [3진법 뒤집기](src/Programmers/Codekata/_40_3진법뒤집기.java)
 
