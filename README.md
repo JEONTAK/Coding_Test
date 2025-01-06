@@ -115,4 +115,8 @@
 - [직사각형 별찍기](src/Programmers/Codekata/_38_직사각형별찍기.java)
 - [최대 공약수와 최소 공배수](src/Programmers/Codekata/_39_최대공약수와최소공배수.java)
 - [3진법 뒤집기](src/Programmers/Codekata/_40_3진법뒤집기.java)
-
+- [이상한 문자 만들기](src/Programmers/Codekata/_41_이상한문자만들기.java)
+- [삼총사](src/Programmers/Codekata/_42_삼총사.java)
+- [크기가 작은 부분](src/Programmers/Codekata/_43_크기가작은부분.java)
+- [최소직사각형](src/Programmers/Codekata/_44_최소직사각형.java)
+- [시저 암호](src/Programmers/Codekata/_45_시저암호.java)

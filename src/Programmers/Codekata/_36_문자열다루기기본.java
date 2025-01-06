@@ -11,7 +11,7 @@ public class _36_문자열다루기기본 {
                     return false;
                 }
             }
-
+            s = s.toLowerCase();
             return s.length() == 4 || s.length() == 6;
         }
     }
