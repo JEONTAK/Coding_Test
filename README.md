@@ -73,6 +73,10 @@
 - [파도반 수열](src/BaekJoon/Silver3/파도반수열/BOJ9461.java)
 - [피보나치 함수](src/BaekJoon/Silver3/피보나치함수/BOJ1003.java)
 
+### Silver 5
+
+- [그룹 단어 체커](src/BaekJoon/Silver5/그룹단어체커/BOJ1316.java)
+
 ## Programmers
 
 - [두 수의 차](src/Programmers/Codekata/_1_두수의차.java)
