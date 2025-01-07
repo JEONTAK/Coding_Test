@@ -125,3 +125,8 @@
 - [크기가 작은 부분](src/Programmers/Codekata/_43_크기가작은부분.java)
 - [최소직사각형](src/Programmers/Codekata/_44_최소직사각형.java)
 - [시저 암호](src/Programmers/Codekata/_45_시저암호.java)
+- [숫자 문자열과 영단어](src/Programmers/Codekata/_46_숫자문자열과영단어.java)
+- [문자열 내 마음대로 졍렬하기](src/Programmers/Codekata/_47_문자열내마음대로정렬하기.java)
+- [K번째수정렬](src/Programmers/Codekata/_48_K번째수정렬.java)
+- [두 개 뽑아서 더하기](src/Programmers/Codekata/_49_두개뽑아서더하기.java)
+- [가장 가까운 같은 글자](src/Programmers/Codekata/_50_가장가까운같은글자.java)
