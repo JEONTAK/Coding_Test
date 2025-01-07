@@ -69,6 +69,7 @@
 - [01타일](src/BaekJoon/Silver3/_01타일/BOJ1904.java)
 - [N 과 M (1)](src/BaekJoon/Silver3/N과M1/BOJ15649.java)
 - [N 과 M (2)](src/BaekJoon/Silver3/N과M2/BOJ15650.java)
+- [N 과 M (3)](src/BaekJoon/Silver3/N과M3/BOJ15651.java)
 - [계단 오르기](src/BaekJoon/Silver3/계단오르기/BOJ2579.java)
 - [주유소](src/BaekJoon/Silver3/주유소/BOJ13305.java)
 - [터렛](src/BaekJoon/Silver3/터렛/BOJ1002.java)
