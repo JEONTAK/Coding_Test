@@ -37,6 +37,7 @@
 
 ### Gold 4
 
+- [N-Queen](src/BaekJoon/Gold4/NQueen/BOJ9663.java)
 - [가장 긴 바이토닉 부분 수열](src/BaekJoon/Gold3/세용액/BOJ11054.java)
 - [동전 1](src/BaekJoon/Gold4/동전1/BOJ2293.java)
 - [팰린드롬?](src/BaekJoon/Gold4/팰린드롬/BOJ10942.java)
