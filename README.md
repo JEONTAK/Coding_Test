@@ -133,3 +133,9 @@
 - [K번째수정렬](src/Programmers/Codekata/_48_K번째수정렬.java)
 - [두 개 뽑아서 더하기](src/Programmers/Codekata/_49_두개뽑아서더하기.java)
 - [가장 가까운 같은 글자](src/Programmers/Codekata/_50_가장가까운같은글자.java)
+- [푸드 파이트 대회](src/Programmers/Codekata/_51_푸드파이트대회.java)
+- [콜라 문제](src/Programmers/Codekata/_52_콜라문제.java)
+- [명예의 전당 (1)](src/Programmers/Codekata/_53_명예의전당1.java)
+- [2016년](src/Programmers/Codekata/_54_2016년.java)
+- [카드 뭉치](src/Programmers/Codekata/_55_카드뭉치.java)
+
