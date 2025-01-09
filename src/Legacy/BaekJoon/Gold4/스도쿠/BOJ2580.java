@@ -1,4 +1,4 @@
-package BaekJoon.Gold4.스도쿠;
+package Legacy.BaekJoon.Gold4.스도쿠;
 
 import java.io.BufferedReader;
 import java.io.IOException;

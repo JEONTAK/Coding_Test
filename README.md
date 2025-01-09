@@ -139,4 +139,8 @@
 - [명예의 전당 (1)](src/Programmers/Codekata/_53_명예의전당1.java)
 - [2016년](src/Programmers/Codekata/_54_2016년.java)
 - [카드 뭉치](src/Programmers/Codekata/_55_카드뭉치.java)
-
+- [과일 장수](src/Programmers/Codekata/_56_과일장수.java)
+- [모의고사](src/Programmers/Codekata/_57_모의고사.java)
+- [소수 만들기](src/Programmers/Codekata/_58_소수만들기.java)
+- [덧칠하기](src/Programmers/Codekata/_59_덧칠하기.java)
+- [기사단원의 무기](src/Programmers/Codekata/_60_기사단원의무기.java)
