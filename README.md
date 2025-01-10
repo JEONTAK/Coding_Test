@@ -146,3 +146,7 @@
 - [소수 만들기](src/Programmers/Codekata/_58_소수만들기.java)
 - [덧칠하기](src/Programmers/Codekata/_59_덧칠하기.java)
 - [기사단원의 무기](src/Programmers/Codekata/_60_기사단원의무기.java)
+- [로또의 최고 순위와 최저 순위](src/Programmers/Codekata/_61_로또의최고순위와최저순위.java)
+- [옹알이 (2)](src/Programmers/Codekata/_62_옹알이_2.java)
+- [숫자 짝궁](src/Programmers/Codekata/_63_숫자짝꿍.java)
+- [체육복](src/Programmers/Codekata/_64_체육복.java)
