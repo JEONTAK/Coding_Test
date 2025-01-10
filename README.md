@@ -66,6 +66,7 @@
 - [신나는 함수 실행](src/BaekJoon/Silver2/신나는함수실행/BOJ9184.java)
 - [연속합](src/BaekJoon/Silver2/연속합/BOJ1912.java)
 - [잃어버린 괄호](src/BaekJoon/Silver2/잃어버린괄호/BOJ1541.java)
+- [종이의 개수](src/BaekJoon/Silver2/종이의개수/BOJ1780.java)
 
 ### Silver 3
 

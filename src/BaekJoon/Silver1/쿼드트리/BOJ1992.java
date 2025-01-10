@@ -21,9 +21,8 @@ public class BOJ1992 {
             }
         }
 
-        compute(0,0,N);
+        compute(0,0, N);
         System.out.println(sb.toString());
-
     }
 
     private static void compute(int x, int y, int l) {
@@ -33,15 +32,20 @@ public class BOJ1992 {
                 sum += map[i][j];
             }
         }
-        if (sum == (l * l)) {
+        
+        if (sum == (l * l)) {//모두 1이면
             sb.append("1");
-        }else if(sum == 0){
+        }else if(sum == 0){//모두 0이면
             sb.append("0");
-        }else{
+        }else{//섞여 있으면
             sb.append("(");
+            //왼쪽 위
             compute(x, y, l / 2);
+            //오른쪽 위
             compute(x, y + l / 2, l / 2);
+            //왼쪽 아래
             compute(x + l / 2, y, l / 2);
+            //오른쪽 아래
             compute(x + l / 2, y + l / 2, l / 2);
             sb.append(")");
         }
