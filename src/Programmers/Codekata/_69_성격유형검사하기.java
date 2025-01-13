@@ -20,25 +20,25 @@ public class _69_성격유형검사하기 {
             }
 
             StringBuilder sb = new StringBuilder();
-            if(score['R' - 'A'] >= score['T' - 'A']){
+            if (score['R' - 'A'] >= score['T' - 'A']) {
                 sb.append("R");
             } else {
                 sb.append("T");
             }
 
-            if(score['C' - 'A'] >= score['F' - 'A']){
+            if (score['C' - 'A'] >= score['F' - 'A']) {
                 sb.append("C");
             } else {
                 sb.append("F");
             }
 
-            if(score['J' - 'A'] >= score['M' - 'A']){
+            if (score['J' - 'A'] >= score['M' - 'A']) {
                 sb.append("J");
             } else {
                 sb.append("M");
             }
 
-            if(score['A' - 'A'] >= score['N' - 'A']){
+            if (score['A' - 'A'] >= score['N' - 'A']) {
                 sb.append("A");
             } else {
                 sb.append("N");

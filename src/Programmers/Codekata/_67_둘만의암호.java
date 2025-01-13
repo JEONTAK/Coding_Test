@@ -2,7 +2,6 @@ package Programmers.Codekata;
 
 public class _67_둘만의암호 {
 
-
     class Solution {
         public static String solution(String s, String skip, int index) {
             StringBuilder sb = new StringBuilder();
@@ -11,17 +10,17 @@ public class _67_둘만의암호 {
                 check[skip.charAt(i) - 'a'] = true;
             }
 
-            for(int i = 0 ; i < s.length(); i++){
+            for (int i = 0; i < s.length(); i++) {
                 int cnt = index;
                 int cur = s.charAt(i) - 'a';
-                while(cnt > 0){
-                    if(!check[(cur + 1) % 26]){
+                while (cnt > 0) {
+                    if (!check[(cur + 1) % 26]) {
                         cnt--;
 
                     }
                     cur = (cur + 1) % 26;
                 }
-                sb.append((char)(cur + 'a'));
+                sb.append((char) (cur + 'a'));
             }
             return sb.toString();
         }

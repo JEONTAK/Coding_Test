@@ -9,17 +9,17 @@ public class _65_문자열나누기 {
             int[] sum;
             char first;
 
-            while(idx < s.length()){
+            while (idx < s.length()) {
                 sum = new int[2];
                 first = s.charAt(idx++);
                 sum[0]++;
-                while(idx < s.length()){
-                    if(s.charAt(idx++) == first){
+                while (idx < s.length()) {
+                    if (s.charAt(idx++) == first) {
                         sum[0]++;
-                    }else{
+                    } else {
                         sum[1]++;
                     }
-                    if(sum[0] == sum[1]){
+                    if (sum[0] == sum[1]) {
                         break;
                     }
                 }

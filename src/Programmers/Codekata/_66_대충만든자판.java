@@ -10,7 +10,7 @@ public class _66_대충만든자판 {
             int[] click = new int[26];
             Arrays.fill(click, 101);
             for (int i = 0; i < keymap.length; i++) {
-                for(int j = 0 ; j < keymap[i].length(); j++){
+                for (int j = 0; j < keymap[i].length(); j++) {
                     int idx = keymap[i].charAt(j) - 'A';
                     click[idx] = Math.min(click[idx], j + 1);
                 }
@@ -23,7 +23,7 @@ public class _66_대충만든자판 {
                     if (click[idx] == 101) {
                         sum = -1;
                         break;
-                    }else{
+                    } else {
                         sum += click[idx];
                     }
                 }
