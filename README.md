@@ -152,3 +152,8 @@
 - [옹알이 (2)](src/Programmers/Codekata/_62_옹알이_2.java)
 - [숫자 짝궁](src/Programmers/Codekata/_63_숫자짝꿍.java)
 - [체육복](src/Programmers/Codekata/_64_체육복.java)
+- [문자열 나누기](src/Programmers/Codekata/_65_문자열나누기.java)
+- [대충 만든 자판](src/Programmers/Codekata/_66_대충만든자판.java)
+- [둘만의 암호](src/Programmers/Codekata/_67_둘만의암호.java)
+- [햄버거 만들기](src/Programmers/Codekata/_68_햄버거만들기.java)
+- [성격 유형 검사하기](src/Programmers/Codekata/_69_성격유형검사하기.java)
