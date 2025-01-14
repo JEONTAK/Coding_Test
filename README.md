@@ -157,3 +157,8 @@
 - [둘만의 암호](src/Programmers/Codekata/_67_둘만의암호.java)
 - [햄버거 만들기](src/Programmers/Codekata/_68_햄버거만들기.java)
 - [성격 유형 검사하기](src/Programmers/Codekata/_69_성격유형검사하기.java)
+- [개인정보 수집 유효기간](src/Programmers/Codekata/_71_개인정보수집유효기간.java)
+- [달리기 경주](src/Programmers/Codekata/_72_달리기경주.java)
+- [공원 산책](src/Programmers/Codekata/_73_공원산책.java)
+- [신고 결과 받기](src/Programmers/Codekata/_74_신고결과받기.java)
+- [최댓값과 최솟값](src/Programmers/Codekata/_75_최댓값과최솟값.java)
