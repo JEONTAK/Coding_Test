@@ -162,3 +162,8 @@
 - [공원 산책](src/Programmers/Codekata/_73_공원산책.java)
 - [신고 결과 받기](src/Programmers/Codekata/_74_신고결과받기.java)
 - [최댓값과 최솟값](src/Programmers/Codekata/_75_최댓값과최솟값.java)
+- [JadenCase 문자열 만들기](src/Programmers/Codekata/_76_JadenCase문자열만들기.java)
+- [이진 변환 반복하기](src/Programmers/Codekata/_77_이진변환반복하기.java)
+- [피보나치 수](src/Programmers/Codekata/_78_피보나치수.java)
+- [카펫](src/Programmers/Codekata/_79_카펫.java)
+- [예상 대진표](src/Programmers/Codekata/_80_예상대진표.java)

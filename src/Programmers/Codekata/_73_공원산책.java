@@ -12,7 +12,7 @@ public class _73_공원산책 {
                 int len = routes[i].charAt(2) - '0';
 
                 if (isAvailable(park, answer, dir, len, H, W)) {
-                    switch(dir){
+                    switch (dir) {
                         case 'N' -> answer[0] -= len;
                         case 'S' -> answer[0] += len;
                         case 'W' -> answer[1] -= len;
@@ -27,7 +27,7 @@ public class _73_공원산책 {
         public boolean isAvailable(String[] park, int[] cur, char dir, int len, int H, int W) {
             int[] tmp = cur.clone();
             for (int i = 0; i < len; i++) {
-                switch(dir){
+                switch (dir) {
                     case 'N' -> tmp[0]--;
                     case 'S' -> tmp[0]++;
                     case 'W' -> tmp[1]--;
@@ -38,14 +38,14 @@ public class _73_공원산책 {
                     return false;
                 }
 
-                if(park[tmp[0]].charAt(tmp[1]) == 'X'){
+                if (park[tmp[0]].charAt(tmp[1]) == 'X') {
                     return false;
                 }
             }
             return true;
         }
 
-        public int[] findStart(String[] park){
+        public int[] findStart(String[] park) {
             int[] start = new int[2];
             for (int i = 0; i < park.length; i++) {
                 for (int j = 0; j < park[i].length(); j++) {
