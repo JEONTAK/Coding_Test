@@ -168,3 +168,8 @@
 - [피보나치 수](src/Programmers/Codekata/_78_피보나치수.java)
 - [카펫](src/Programmers/Codekata/_79_카펫.java)
 - [예상 대진표](src/Programmers/Codekata/_80_예상대진표.java)
+- [N개의 최소공배수](src/Programmers/Codekata/_81_N개의최소공배수.java)
+- [멀리 뛰기](src/Programmers/Codekata/_82_멀리뛰기.java)
+- [귤 고르기](src/Programmers/Codekata/_83_귤고르기.java)
+- [괄호 회전하기](src/Programmers/Codekata/_84_괄호회전하기.java)
+- [연속 부분 수열 합의 개수](src/Programmers/Codekata/_85_연속부분수열합의개수.java)
