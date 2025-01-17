@@ -173,3 +173,8 @@
 - [귤 고르기](src/Programmers/Codekata/_83_귤고르기.java)
 - [괄호 회전하기](src/Programmers/Codekata/_84_괄호회전하기.java)
 - [연속 부분 수열 합의 개수](src/Programmers/Codekata/_85_연속부분수열합의개수.java)
+- [H-Index](src/Programmers/Codekata/_86_H_Index.java)
+- [n^2 배열 자르기](src/Programmers/Codekata/_87_n제곱배열자르기.java)
+- [행렬의 곱셈](src/Programmers/Codekata/_88_행렬의곱셈.java)
+- [할인 행사](src/Programmers/Codekata/_89_할인행사.java)
+- [의상](src/Programmers/Codekata/_90_의상.java)
