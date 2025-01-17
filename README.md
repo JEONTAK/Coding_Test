@@ -6,6 +6,10 @@
 
 ## BaekJoon
 
+### Gold 1
+
+- [이항 계수 3](src/BaekJoon/Gold1/이항계수3/BOJ11401.java)
+
 ### Gold 3
 
 - [ACM Craft](src/BaekJoon/Gold3/ACMCraft/BOJ1005.java)
@@ -66,6 +70,7 @@
 - [베르트랑 공준](src/BaekJoon/Silver2/베르트랑공준/BOJ4948.java)
 - [신나는 함수 실행](src/BaekJoon/Silver2/신나는함수실행/BOJ9184.java)
 - [연속합](src/BaekJoon/Silver2/연속합/BOJ1912.java)
+- [이항 계수 2](src/BaekJoon/Silver2/이항계수2/BOJ11051.java)
 - [잃어버린 괄호](src/BaekJoon/Silver2/잃어버린괄호/BOJ1541.java)
 - [종이의 개수](src/BaekJoon/Silver2/종이의개수/BOJ1780.java)
 
@@ -86,6 +91,10 @@
 ### Silver 5
 
 - [그룹 단어 체커](src/BaekJoon/Silver5/그룹단어체커/BOJ1316.java)
+
+### Bronze 1
+
+- [이항 계수 1](src/BaekJoon/Bronze1/이항계수1/BOJ11050.java)
 
 ## Programmers
 
