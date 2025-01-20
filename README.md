@@ -187,3 +187,8 @@
 - [행렬의 곱셈](src/Programmers/Codekata/_88_행렬의곱셈.java)
 - [할인 행사](src/Programmers/Codekata/_89_할인행사.java)
 - [의상](src/Programmers/Codekata/_90_의상.java)
+- [기능개발](src/Programmers/Codekata/_91_기능개발.java)
+- [프로세스](src/Programmers/Codekata/_92_프로세스.java)
+- [피로도](src/Programmers/Codekata/_93_피로도.java)
+- [타겟 넘버](src/Programmers/Codekata/_94_타겟넘버.java)
+- [k진수에서 소수 개수 구하기](src/Programmers/Codekata/_95_k진수에서소수개수구하기.java)
