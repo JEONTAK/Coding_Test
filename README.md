@@ -192,3 +192,6 @@
 - [피로도](src/Programmers/Codekata/_93_피로도.java)
 - [타겟 넘버](src/Programmers/Codekata/_94_타겟넘버.java)
 - [k진수에서 소수 개수 구하기](src/Programmers/Codekata/_95_k진수에서소수개수구하기.java)
+- [주차 요금 계산](src/Programmers/Codekata/_96_주차요금계산.java)
+- [모음 사전](src/Programmers/Codekata/_97_모음사전.java)
+- [뒤에 있는 큰 수 찾기](src/Programmers/Codekata/_98_뒤에있는큰수찾기.java)
