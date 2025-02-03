@@ -211,3 +211,5 @@
 - [행렬 테두리 회전하기](src/Programmers/Codekata/_112_행렬테두리회전하기.java)
 - [전력망을 둘로 나누기](src/Programmers/Codekata/_113_전력망을둘로나누기.java)
 - [배달](src/Programmers/Codekata/_114_배달.java)
+- [호텔 대실](src/Programmers/Codekata/_115_호텔대실.java)
+- [점 찍기](src/Programmers/Codekata/_116_점찍기.java)
