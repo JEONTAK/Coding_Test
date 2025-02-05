@@ -215,3 +215,5 @@
 - [점 찍기](src/Programmers/Codekata/_116_점찍기.java)
 - [마법의 엘리베이터](src/Programmers/Codekata/_117_마법의엘리베이터.java)
 - [거리두기 확인하기](src/Programmers/Codekata/_118_거리두기확인하기.java)
+- [숫자카드 나누기](src/Programmers/Codekata/_119_숫자카드나누기.java)
+- [멀쩡한 사각형](src/Programmers/Codekata/_120_멀쩡한사각형.java)
