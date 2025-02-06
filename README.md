@@ -217,3 +217,5 @@
 - [거리두기 확인하기](src/Programmers/Codekata/_118_거리두기확인하기.java)
 - [숫자카드 나누기](src/Programmers/Codekata/_119_숫자카드나누기.java)
 - [멀쩡한 사각형](src/Programmers/Codekata/_120_멀쩡한사각형.java)
+- [시소 짝꿍](src/Programmers/Codekata/_121_시소짝꿍.java)
+- [테이블 해시 함수](src/Programmers/Codekata/_122_테이블해시함수.java)
