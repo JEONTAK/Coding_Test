@@ -66,12 +66,4 @@ public class _121_시소짝꿍 {
                 - if((cur * 4) % 3 == 0)
                     - answer += w[cur] * w[cur * 4 / 3]
     - 이후 answer return
-
-100 180 270 360
-
-
-1
-1
-1
-
 */

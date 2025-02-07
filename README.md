@@ -219,3 +219,5 @@
 - [멀쩡한 사각형](src/Programmers/Codekata/_120_멀쩡한사각형.java)
 - [시소 짝꿍](src/Programmers/Codekata/_121_시소짝꿍.java)
 - [테이블 해시 함수](src/Programmers/Codekata/_122_테이블해시함수.java)
+- [하노이의 탑](src/Programmers/Codekata/_123_하노이의탑.java)
+- [미로 탈출](src/Programmers/Codekata/_124_미로탈출.java)
