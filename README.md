@@ -221,3 +221,5 @@
 - [테이블 해시 함수](src/Programmers/Codekata/_122_테이블해시함수.java)
 - [하노이의 탑](src/Programmers/Codekata/_123_하노이의탑.java)
 - [미로 탈출](src/Programmers/Codekata/_124_미로탈출.java)
+- [혼자 놀기의 달인](src/Programmers/Codekata/_125_혼자놀기의달인.java)
+- [광물 캐기](src/Programmers/Codekata/_126_광물캐기.java)
