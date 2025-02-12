@@ -225,3 +225,5 @@
 - [광물 캐기](src/Programmers/Codekata/_126_광물캐기.java)
 - [리코쳇 로봇](src/Programmers/Codekata/_127_리코쳇로봇.java)
 - [디펜스 게임](src/Programmers/Codekata/_128_디펜스게임.java)
+- [우박수열 정적분](src/Programmers/Codekata/_129_우박수열정적분.java)
+- [두 원 사이의 정수 쌍](src/Programmers/Codekata/_130_두원사이의정수쌍.java)
