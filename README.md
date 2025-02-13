@@ -227,3 +227,5 @@
 - [디펜스 게임](src/Programmers/Codekata/_128_디펜스게임.java)
 - [우박수열 정적분](src/Programmers/Codekata/_129_우박수열정적분.java)
 - [두 원 사이의 정수 쌍](src/Programmers/Codekata/_130_두원사이의정수쌍.java)
+- [N-Queen](src/Programmers/Codekata/_131_NQueen.java)
+- [과제 진행하기](src/Programmers/Codekata/_132_과제진행하기.java)
