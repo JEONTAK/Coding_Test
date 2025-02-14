@@ -229,3 +229,4 @@
 - [두 원 사이의 정수 쌍](src/Programmers/Codekata/_130_두원사이의정수쌍.java)
 - [N-Queen](src/Programmers/Codekata/_131_NQueen.java)
 - [과제 진행하기](src/Programmers/Codekata/_132_과제진행하기.java)
+- [조이스틱](src/Programmers/Codekata/_133_조이스틱.java)
