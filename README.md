@@ -230,3 +230,5 @@
 - [N-Queen](src/Programmers/Codekata/_131_NQueen.java)
 - [과제 진행하기](src/Programmers/Codekata/_132_과제진행하기.java)
 - [조이스틱](src/Programmers/Codekata/_133_조이스틱.java)
+- [혼자서 하는 틱택토](src/Programmers/Codekata/_134_혼자서하는틱택토.java)
+- [이모티콘 할인행사](src/Programmers/Codekata/_135_이모티콘할인행사.java)
