@@ -232,3 +232,5 @@
 - [조이스틱](src/Programmers/Codekata/_133_조이스틱.java)
 - [혼자서 하는 틱택토](src/Programmers/Codekata/_134_혼자서하는틱택토.java)
 - [이모티콘 할인행사](src/Programmers/Codekata/_135_이모티콘할인행사.java)
+- [요격 시스템](src/Programmers/Codekata/_136_요격시스템.java)
+- [양궁대회](src/Programmers/Codekata/_137_양궁대회.java)
