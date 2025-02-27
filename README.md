@@ -234,3 +234,5 @@
 - [이모티콘 할인행사](src/Programmers/Codekata/_135_이모티콘할인행사.java)
 - [요격 시스템](src/Programmers/Codekata/_136_요격시스템.java)
 - [양궁대회](src/Programmers/Codekata/_137_양궁대회.java)
+- [교점에 별 만들기](src/Programmers/Codekata/_138_교점에별만들기.java)
+- [택배 배달과 수거하기](src/Programmers/Codekata/_139_택배배달과수거하기.java)
