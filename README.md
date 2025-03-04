@@ -236,3 +236,4 @@
 - [양궁대회](src/Programmers/Codekata/_137_양궁대회.java)
 - [교점에 별 만들기](src/Programmers/Codekata/_138_교점에별만들기.java)
 - [택배 배달과 수거하기](src/Programmers/Codekata/_139_택배배달과수거하기.java)
+- [유사 칸토어 비트열](src/Programmers/Codekata/_140_유사칸토어비트열.java)
