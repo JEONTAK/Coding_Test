@@ -27,9 +27,6 @@ public class _141_당구연습 {
                         minLen = Math.min(minLen, distSquared);
                     }
                 }
-
-
-
                 answer[idx++] = minLen;
             }
 
