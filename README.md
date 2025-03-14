@@ -240,3 +240,5 @@
 - [당구 연습](src/Programmers/Codekata/_141_당구연습.java)
 - [빛의 경로 사이클](src/Programmers/Codekata/_142_빛의경로사이클.java)
 - [이중우선순위큐](src/Programmers/Codekata/_143_이중우선순위큐.java)
+- [네트워크](src/Programmers/Codekata/_144_네트워크.java)
+- [단어 변환](src/Programmers/Codekata/_145_단어변환.java)
