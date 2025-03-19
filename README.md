@@ -245,3 +245,4 @@
 - [베스트 앨범](src/Programmers/Codekata/_146_베스트앨범.java)
 - [가장 먼 노드](src/Programmers/Codekata/_147_가장먼노드.java)
 - [섬 연결하기](src/Programmers/Codekata/_148_섬연결하기.java)
+- [여행경로](src/Programmers/Codekata/_149_여행경로.java)
