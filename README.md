@@ -246,3 +246,4 @@
 - [가장 먼 노드](src/Programmers/Codekata/_147_가장먼노드.java)
 - [섬 연결하기](src/Programmers/Codekata/_148_섬연결하기.java)
 - [여행경로](src/Programmers/Codekata/_149_여행경로.java)
+- [디스크 컨트롤러](src/Programmers/Codekata/_150_디스크컨트롤러.java)
