@@ -247,3 +247,4 @@
 - [섬 연결하기](src/Programmers/Codekata/_148_섬연결하기.java)
 - [여행경로](src/Programmers/Codekata/_149_여행경로.java)
 - [디스크 컨트롤러](src/Programmers/Codekata/_150_디스크컨트롤러.java)
+- [입국심사](src/Programmers/Codekata/_151_입국심사.java)
