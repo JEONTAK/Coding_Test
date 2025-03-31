@@ -248,3 +248,4 @@
 - [여행경로](src/Programmers/Codekata/_149_여행경로.java)
 - [디스크 컨트롤러](src/Programmers/Codekata/_150_디스크컨트롤러.java)
 - [입국심사](src/Programmers/Codekata/_151_입국심사.java)
+- [가장 긴 팰린드롬](src/Programmers/Codekata/_152_가장긴팰린드롬.java)
